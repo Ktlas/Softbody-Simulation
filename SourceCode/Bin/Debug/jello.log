@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (A:\University\CSCI520\starter-csci520-assign1\\Bin\Debug\) contains files shared from another project (createWorld.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  jello.cpp
+A:\University\CSCI520\starter-csci520-assign1\jello.cpp(204,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+A:\University\CSCI520\starter-csci520-assign1\jello.cpp(205,48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+A:\University\CSCI520\starter-csci520-assign1\jello.cpp(206,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+A:\University\CSCI520\starter-csci520-assign1\jello.cpp(207,48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+A:\University\CSCI520\starter-csci520-assign1\jello.cpp(208,48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+A:\University\CSCI520\starter-csci520-assign1\jello.cpp(209,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+A:\University\CSCI520\starter-csci520-assign1\jello.cpp(210,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+A:\University\CSCI520\starter-csci520-assign1\jello.cpp(211,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+A:\University\CSCI520\starter-csci520-assign1\jello.cpp(216,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+A:\University\CSCI520\starter-csci520-assign1\jello.cpp(269,7): warning C4101: 'i': unreferenced local variable
+  jello.vcxproj -> A:\University\CSCI520\starter-csci520-assign1\Bin\Debug\jello.exe
